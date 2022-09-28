@@ -1,0 +1,28 @@
+main {
+    text-align: center;
+    background: #bfd3c1;
+    color: rgba(12, 12, 12, 0.886);
+}
+body{
+    font-size: 25px;
+}
+.capa{ 
+   width: 80%; 
+
+}
+.conteudo{
+    background: rgb(215, 218, 220);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(37, 35, 63, 0.906);
+}
+.beneficios {
+    background-color: rgb(190, 224, 194);
+    display: inline-block;
+}
+ul
+
+
+.foto-beneficios{
+    width: 30%;
+    height: 50%;
+}
